@@ -1,0 +1,31 @@
+span {
+    display: inline-block;
+    background-color: aliceblue;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#banner {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+p , div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: slateblue
+}
